@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "1a106d94_197169e0",
+        "filename": "market/MarketHistory.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1004750
+      },
+      "writtenOn": "2015-04-27T16:56:45Z",
+      "side": 1,
+      "message": "please review again",
+      "parentUuid": "1a106d94_ee512537",
+      "range": {
+        "startLine": 16,
+        "startChar": 8,
+        "endLine": 16,
+        "endChar": 9
+      },
+      "revId": "055cb5dae86943577ba9de759d19ba378fab23f7",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a106d94_ce56e929",
         "filename": "market/MarketHistory.java",
         "patchSetId": 1
@@ -48,6 +72,30 @@
     },
     {
       "key": {
+        "uuid": "1a106d94_79797dc7",
+        "filename": "market/MarketHistory.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 1004750
+      },
+      "writtenOn": "2015-04-27T16:56:45Z",
+      "side": 1,
+      "message": "please review again",
+      "parentUuid": "1a106d94_ce56e929",
+      "range": {
+        "startLine": 42,
+        "startChar": 0,
+        "endLine": 54,
+        "endChar": 3
+      },
+      "revId": "055cb5dae86943577ba9de759d19ba378fab23f7",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a106d94_ae53ad37",
         "filename": "market/MarketHistory.java",
         "patchSetId": 1
@@ -59,6 +107,30 @@
       "writtenOn": "2015-04-27T13:16:33Z",
       "side": 1,
       "message": "This returns the list of prices, not the price. Maybe make this method name getPriceListFor instead of getPriceFor. That way, we know better what is happening in this method.",
+      "range": {
+        "startLine": 57,
+        "startChar": 26,
+        "endLine": 57,
+        "endChar": 37
+      },
+      "revId": "055cb5dae86943577ba9de759d19ba378fab23f7",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_597641d8",
+        "filename": "market/MarketHistory.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 1004750
+      },
+      "writtenOn": "2015-04-27T16:56:45Z",
+      "side": 1,
+      "message": "please review again",
+      "parentUuid": "1a106d94_ae53ad37",
       "range": {
         "startLine": 57,
         "startChar": 26,
