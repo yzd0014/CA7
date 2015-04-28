@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_e7e303a2",
+        "filename": "trader/Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 1004797
+      },
+      "writtenOn": "2015-04-28T20:03:34Z",
+      "side": 1,
+      "message": "either make this an \"if else: sell\" or put a comment denoting that this else statement is for a sell order so its more clear",
+      "revId": "9e58054da2ef013c05da535516c59880cd94a7c0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
