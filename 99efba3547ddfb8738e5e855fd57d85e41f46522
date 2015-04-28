@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_07f61f63",
+        "filename": "order/orderBook.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1004797
+      },
+      "writtenOn": "2015-04-28T20:06:52Z",
+      "side": 1,
+      "message": "rename variable \"m\" to make it more clear, suggest \"market\"",
+      "revId": "99efba3547ddfb8738e5e855fd57d85e41f46522",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_87016f3a",
+        "filename": "order/orderBook.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 1004797
+      },
+      "writtenOn": "2015-04-28T20:06:52Z",
+      "side": 1,
+      "message": "variable name \"bOrder\" looks like the word \"border\", if renamed to buyOrders would make it more clear. Same with sOrder below",
+      "revId": "99efba3547ddfb8738e5e855fd57d85e41f46522",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
