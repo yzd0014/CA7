@@ -22,6 +22,30 @@
       "revId": "b3d9f56af6fe166b88a2bba6557f20bda18ea4ec",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_912360a6",
+        "filename": "trader/Trader.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1004750
+      },
+      "writtenOn": "2015-04-29T20:18:34Z",
+      "side": 1,
+      "message": "please review again",
+      "parentUuid": "1a106d94_4bf5b955",
+      "range": {
+        "startLine": 13,
+        "startChar": 1,
+        "endLine": 13,
+        "endChar": 22
+      },
+      "revId": "b3d9f56af6fe166b88a2bba6557f20bda18ea4ec",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
