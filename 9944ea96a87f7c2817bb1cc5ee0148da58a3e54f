@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_8bd4d1bd",
+        "filename": "util/OrderUtility.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1004762
+      },
+      "writtenOn": "2015-04-29T18:49:49Z",
+      "side": 1,
+      "message": "Long list of boolean conditionals makes this hard to read. consider extracting each one as a local boolean variable",
+      "range": {
+        "startLine": 13,
+        "startChar": 6,
+        "endLine": 14,
+        "endChar": 80
+      },
+      "revId": "9944ea96a87f7c2817bb1cc5ee0148da58a3e54f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
