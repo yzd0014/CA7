@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_a0528764",
+        "filename": "client/Client.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1004824
+      },
+      "writtenOn": "2015-04-30T00:52:02Z",
+      "side": 1,
+      "message": "Vague variable name, consider renaming to something with meaning such as m -\u003e market and m1 -\u003e market1",
+      "range": {
+        "startLine": 11,
+        "startChar": 2,
+        "endLine": 11,
+        "endChar": 10
+      },
+      "revId": "21ff62ff2d3a59cbc5010fcbcf9a55717c7a76e4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_80cf8b28",
+        "filename": "client/Client.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 142,
+      "author": {
+        "id": 1004824
+      },
+      "writtenOn": "2015-04-30T00:52:02Z",
+      "side": 1,
+      "message": "Same functionality, consider extracting to a method with a Trader as a parameter",
+      "range": {
+        "startLine": 127,
+        "startChar": 2,
+        "endLine": 142,
+        "endChar": 25
+      },
+      "revId": "21ff62ff2d3a59cbc5010fcbcf9a55717c7a76e4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
