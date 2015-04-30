@@ -97,6 +97,24 @@
       "revId": "b3d9f56af6fe166b88a2bba6557f20bda18ea4ec",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_d9a4da4c",
+        "filename": "trader/Trader.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 142,
+      "author": {
+        "id": 1004750
+      },
+      "writtenOn": "2015-04-30T05:07:02Z",
+      "side": 1,
+      "message": "please review again",
+      "parentUuid": "1a106d94_60b36fe9",
+      "revId": "b3d9f56af6fe166b88a2bba6557f20bda18ea4ec",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
