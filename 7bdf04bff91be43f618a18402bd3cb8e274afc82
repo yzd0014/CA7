@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_e32e498b",
+        "filename": "market/MarketHistory.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 1004794
+      },
+      "writtenOn": "2015-04-30T01:21:10Z",
+      "side": 1,
+      "message": "Maybe improve wording of comment, for example, \"If there are no stocks in the market.\" This helps clarify that it refers to the if-statement.",
+      "range": {
+        "startLine": 42,
+        "startChar": 2,
+        "endLine": 42,
+        "endChar": 22
+      },
+      "revId": "7bdf04bff91be43f618a18402bd3cb8e274afc82",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
