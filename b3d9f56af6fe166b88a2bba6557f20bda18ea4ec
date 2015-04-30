@@ -46,6 +46,57 @@
       "revId": "b3d9f56af6fe166b88a2bba6557f20bda18ea4ec",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_80978b39",
+        "filename": "trader/Trader.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1004782
+      },
+      "writtenOn": "2015-04-30T00:39:06Z",
+      "side": 1,
+      "message": "Unneeded block comment explaining the function of the code. Either remove or replace with JavaDoc.",
+      "revId": "b3d9f56af6fe166b88a2bba6557f20bda18ea4ec",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_40b8f3c7",
+        "filename": "trader/Trader.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 1004782
+      },
+      "writtenOn": "2015-04-30T00:39:06Z",
+      "side": 1,
+      "message": "Add spacing around operators \u0027\u0026\u0026\u0027 and \u0027\u003e\u003d\u0027 to help readability of the code",
+      "revId": "b3d9f56af6fe166b88a2bba6557f20bda18ea4ec",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_60b36fe9",
+        "filename": "trader/Trader.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 142,
+      "author": {
+        "id": 1004782
+      },
+      "writtenOn": "2015-04-30T00:39:06Z",
+      "side": 1,
+      "message": "This block of code is not indented like the rest, use consistent formatting to promote readability.",
+      "revId": "b3d9f56af6fe166b88a2bba6557f20bda18ea4ec",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
