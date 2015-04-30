@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_595d8a78",
+        "filename": "market/Market.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1004794
+      },
+      "writtenOn": "2015-04-30T04:46:38Z",
+      "side": 1,
+      "message": "This statement is somewhat confusing if it is spread across multiple lines as it is written. Putting it all on the same line together would be better",
+      "range": {
+        "startLine": 35,
+        "startChar": 2,
+        "endLine": 36,
+        "endChar": 64
+      },
+      "revId": "4c2207333e285406e7940cfd3b0cd5b2e8e50e7e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_1967924e",
+        "filename": "market/Market.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 1004794
+      },
+      "writtenOn": "2015-04-30T04:46:38Z",
+      "side": 1,
+      "message": "You could call this variable stock rather than s to reflect the object type.",
+      "range": {
+        "startLine": 67,
+        "startChar": 2,
+        "endLine": 67,
+        "endChar": 9
+      },
+      "revId": "4c2207333e285406e7940cfd3b0cd5b2e8e50e7e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
