@@ -22,6 +22,30 @@
       "revId": "7bdf04bff91be43f618a18402bd3cb8e274afc82",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_d414a145",
+        "filename": "market/MarketHistory.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 1004750
+      },
+      "writtenOn": "2015-04-30T05:27:55Z",
+      "side": 1,
+      "message": "please review again",
+      "parentUuid": "1a106d94_e32e498b",
+      "range": {
+        "startLine": 42,
+        "startChar": 2,
+        "endLine": 42,
+        "endChar": 22
+      },
+      "revId": "7bdf04bff91be43f618a18402bd3cb8e274afc82",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
